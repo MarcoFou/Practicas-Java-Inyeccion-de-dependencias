@@ -1,6 +1,6 @@
-package con_inyeccion_de_dependencias;
+package Inyeccion_de_dependecias_con_Factory_class;
 
-public class Jugador implements Jugable{
+public class Jugador implements Jugable {
     private String nombre;
     private Consola consola;
     private Jugable dispositivoJugable;

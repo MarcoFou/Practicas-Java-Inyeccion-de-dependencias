@@ -1,6 +1,6 @@
-package con_inyeccion_de_dependencias;
+package Inyeccion_de_dependecias_con_Factory_class;
 
-public class Pc implements Jugable{
+public class Pc implements Jugable {
     private String modelo;
 
 
